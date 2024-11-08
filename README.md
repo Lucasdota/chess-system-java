@@ -25,5 +25,9 @@ git clone https://github.com/Lucasdota/chess-system-java
 3. Execute o jogo com `java application/Program`.
 4. Siga as instruções na tela para realizar suas jogadas.
 
+## Tecnologias Utilizadas
+- Java SE
+- Estruturas de Dados (Listas, Matrizes, etc.)
+
 # Autor
 https://www.linkedin.com/in/lucas-dota-trombini/
